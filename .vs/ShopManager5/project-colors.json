@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "48be75ad-ea4e-4f63-8be0-f84cffb3dea6": {
+      "ProjectGuid": "48be75ad-ea4e-4f63-8be0-f84cffb3dea6",
+      "DisplayName": "ShopManager5.Api",
+      "ColorIndex": 0
+    },
+    "f621f85c-ca5a-4f0c-8b2a-259bb4e2a2b9": {
+      "ProjectGuid": "f621f85c-ca5a-4f0c-8b2a-259bb4e2a2b9",
+      "DisplayName": "ShopManager3.0",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Różne pliki",
+      "ColorIndex": -1
+    },
+    "1e5d3ded-9279-48bd-ad90-fc8cc0acd940": {
+      "ProjectGuid": "1e5d3ded-9279-48bd-ad90-fc8cc0acd940",
+      "DisplayName": "ShopManager3.0",
+      "ColorIndex": 2
+    },
+    "690f8a0b-4d8e-4d73-9100-a19ba3a7516e": {
+      "ProjectGuid": "690f8a0b-4d8e-4d73-9100-a19ba3a7516e",
+      "DisplayName": "ShopManager5.Integration.Tests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
